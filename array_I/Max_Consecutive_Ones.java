@@ -1,4 +1,4 @@
-package array;
+package array_I;
 
 public class Max_Consecutive_Ones {
     public static void main(String[] args) {
