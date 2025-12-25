@@ -29,14 +29,14 @@ class Solution_67 {
             if(i>=0) sum += a.charAt(i) - '0';
             if(j>=0) sum += b.charAt(j) - '0';
 
-            ans.insert(0, (sum % 2));
+            ans.append(sum % 2);
             k = sum / 2;
             i--;
             j--;
         }
 
-        if (k == 1) ans.insert(0, "1");
+        if (k == 1) ans.append(1);
 
-        return ans.toString();
+        return ans.reverse().toString();
     }
 }
