@@ -31,6 +31,7 @@ class Solution_415 {
             carry = sum / 10;
         }
 
+        if(carry != 0 ) sb.append(carry);
         return new String(sb.reverse());
     }
 }
