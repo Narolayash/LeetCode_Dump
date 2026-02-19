@@ -1,0 +1,25 @@
+public class Problem_1672 {
+    public static void main(String[] args) {
+        int[][] accounts = {{1,2,3},{3,2,1}};
+
+        Solution_Problem_1672 obj = new Solution_Problem_1672();
+        System.out.println(obj.maximumWealth(accounts));
+    }
+}
+
+
+class Solution_Problem_1672 {
+    public int maximumWealth(int[][] accounts) {
+        int max_wealth = Integer.MIN_VALUE;
+
+        for (int[] account : accounts) {
+            int total_wealth = 0;
+            for(int wealth : account) {
+                total_wealth += wealth;
+            }
+            if (total_wealth > max_wealth) max_wealth = total_wealth;
+        }
+
+        return max_wealth;
+    }
+}
