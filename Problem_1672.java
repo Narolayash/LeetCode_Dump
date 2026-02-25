@@ -5,6 +5,25 @@ public class Problem_1672 {
         Solution_Problem_1672 obj = new Solution_Problem_1672();
         System.out.println(obj.maximumWealth(accounts));
     }
+
+//    public static int maximumWealth2(int[][] accounts) {
+//        int maxWealth = Integer.MIN_VALUE;
+//
+//        for (int[] account : accounts) {
+//            int w = wealth(account);
+//            if (w > maxWealth) maxWealth = w;
+//        }
+//
+//        return maxWealth;
+//    }
+//
+//    static int wealth(int[] banks) {
+//        int wealth = 0;
+//        for (int value : banks)
+//            wealth += value;
+//
+//        return wealth;
+//    }
 }
 
 
