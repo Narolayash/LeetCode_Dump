@@ -19,9 +19,11 @@ public class SelectionSort {
                     maxIndex = j;
             }
 
-            int temp = arr[lastIndex];
-            arr[lastIndex] = arr[maxIndex];
-            arr[maxIndex] = temp;
+            if (lastIndex != maxIndex){
+                int temp = arr[lastIndex];
+                arr[lastIndex] = arr[maxIndex];
+                arr[maxIndex] = temp;
+            }
         }
     }
 }

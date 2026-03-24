@@ -1,3 +1,5 @@
+package Practice;
+
 public class SearchInRange {
     public static void main(String[] args) {
         int[] arr = {20, 40, 50, 95, 75, 15};
