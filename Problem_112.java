@@ -1,12 +1,12 @@
-public class Problem_112 {
-    public static void main(String[] args) {
-
-    }
-
-    static public boolean hasPathSum(TreeNode root, int targerSum) {
-        
-    }
-}
+//public class Problem_112 {
+//    public static void main(String[] args) {
+//
+//    }
+//
+//    static public boolean hasPathSum(TreeNode root, int targerSum) {
+//
+//    }
+//}
 
 
 /**
