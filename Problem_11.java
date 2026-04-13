@@ -7,14 +7,28 @@ public class Problem_11 {
         int maxArea = 0;
         int i = 0, j = height.length - 1;
         while (i < j) {
-            int area = (j - i) * Math.min(height[i], height[j]);
+            int minY = Math.min(height[i], height[j]);
+            int area = (j - i) * minY;
             if (maxArea < area) maxArea = area;
-            if (height[i] < height[j]) i++;
-            else j--;
+            while (i < j && height[i] <= minY) i++;
+            while (i < j && height[j] <= minY) j--;
         }
 
         return maxArea;
     }
+
+//    public static int maxArea(int[] height) {
+//        int maxArea = 0;
+//        int i = 0, j = height.length - 1;
+//        while (i < j) {
+//            int area = (j - i) * Math.min(height[i], height[j]);
+//            if (maxArea < area) maxArea = area;
+//            if (height[i] < height[j]) i++;
+//            else j--;
+//        }
+//
+//        return maxArea;
+//    }
 
 //    public static int maxArea(int[] height) {
 //        int maxArea = 0;
