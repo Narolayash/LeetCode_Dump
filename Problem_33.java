@@ -43,10 +43,11 @@ public class Problem_33 {
 
         if (nums[maxIndex] == target)
             return maxIndex;
-        else if (nums[maxIndex] > target)
-            return binarySearch(nums, target, maxIndex + 1, nums.length);
-        else
+
+        if (target >= nums[0])
             return binarySearch(nums, target, 0, maxIndex - 1);
+
+        return binarySearch(nums, target, maxIndex + 1, nums.length - 1 );
     }
 }
 

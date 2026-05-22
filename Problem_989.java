@@ -8,30 +8,30 @@ public class Problem_989 {
 
 
 
-    public List<Integer> addToArrayForm(int[] num, int k) {
-        List<Integer> ans = new ArrayList<>();
-        int i = num.length - 1, carry = 0;
-
-        while (i >= 0 && k > 0) {
-            num[i] += carry + (k % 10);
-            carry = num[i] / 10;
-            num[i] %= 10;
-            k /= 10;
-            i--;
-        }
-        if (i == -1) {
-            while (k > 0) {
-                ans.add(0, k % 10);
-                k /= 10;
-            }
-        }
-        if (carry != 0) ans.add(0, carry);
-        for (int value : num) {
-            ans.add(value);
-        }
-
-        return ans;
-    }
+//    public List<Integer> addToArrayForm(int[] num, int k) {
+//        List<Integer> ans = new ArrayList<>();
+//        int i = num.length - 1, carry = 0;
+//
+//        while (i >= 0 && k > 0) {
+//            num[i] += carry + (k % 10);
+//            carry = num[i] / 10;
+//            num[i] %= 10;
+//            k /= 10;
+//            i--;
+//        }
+//        if (i == -1) {
+//            while (k > 0) {
+//                ans.add(0, k % 10);
+//                k /= 10;
+//            }
+//        }
+//        if (carry != 0) ans.add(0, carry);
+//        for (int value : num) {
+//            ans.add(value);
+//        }
+//
+//        return ans;
+//    }
 
 //    public List<Integer> addToArrayForm(int[] num, int k) {
 //        List<Integer> ans = new ArrayList<>();
@@ -41,7 +41,7 @@ public class Problem_989 {
 //        while (i >= 0 || k > 0 || carry > 0) {
 //            int sum = carry;
 //
-//            if (i >= 0)
+//            if (i >= 0)   
 //                sum += num[i--];
 //
 //            if (k > 0) {
