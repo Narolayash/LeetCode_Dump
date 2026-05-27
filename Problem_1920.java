@@ -1,22 +1,30 @@
 //import java.util.Arrays;
 //
-//public class Problem_1920 {
-//    public static void main(String[] args) {
-//        System.out.println(Arrays.toString(buildArray(new int[] {0, 2, 1, 5, 3, 4})));
-//    }
-//
-//
-//    // recurtion thi pan thai sake
-////    public static int[] buildArray(int[] nums) {
-////        int[] newNums = new int[nums.len]
-////    }
-//
-////    public static int[] buildArray(int[] nums) {
-////        int[] newNums = new int[nums.length];
-////        int i = 0;
-////        for (int value : nums)
-////            newNums[i++] = nums[value];
-////
-////        return newNums;
-////    }
-//}
+public class Problem_1920 {
+    public int[] buildArray(int[] nums) {
+        arrenge(nums, 0);
+
+        return nums;
+    }
+
+    public void arrenge(int[] nums, int idx) {
+        if (idx == nums.length) return;
+
+        int newValue = nums[nums[idx]];
+
+        arrenge(nums, idx + 1);
+
+        nums[idx] = newValue;
+    }
+
+    // public int[] buildArray(int[] nums) {
+    //     int[] ans = new int[nums.length];
+
+    //     int i = 0;
+    //     for (int num : nums) {
+    //         ans[i++] = nums[num];
+    //     }
+
+    //     return ans;
+    // }
+}

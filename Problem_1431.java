@@ -7,17 +7,32 @@ public class Problem_1431 {
 
     }
 
-    public static List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
-        int lnoCandie = Integer.MIN_VALUE;
-        for (int n : candies) {
-            if (n > lnoCandie) lnoCandie = n;
+    public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
+        int maxCandie = Integer.MIN_VALUE;
+        for (int candie : candies) {
+            maxCandie = Math.max(candie, maxCandie);
         }
 
-        List<Boolean> result = new ArrayList<>();
-        for (int n : candies) {
-            result.add(n + extraCandies >= lnoCandie);
+        List<Boolean> list = new ArrayList<>(candies.length);
+
+        for(int candie : candies) {
+            list.add(candie + extraCandies >= maxCandie);
         }
 
-        return result;
+        return list;
     }
+
+//    public static List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
+//        int lnoCandie = Integer.MIN_VALUE;
+//        for (int n : candies) {
+//            if (n > lnoCandie) lnoCandie = n;
+//        }
+//
+//        List<Boolean> result = new ArrayList<>();
+//        for (int n : candies) {
+//            result.add(n + extraCandies >= lnoCandie);
+//        }
+//
+//        return result;
+//    }
 }
