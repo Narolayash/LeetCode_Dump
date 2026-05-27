@@ -13,7 +13,7 @@ public class Problem_349 {
 
         int[] result = new int[Math.min(nums1.length, nums2.length)];
         int i = 0;
-        for (int num : nums2) {
+        for (int num : nums2) { 
             if (exists[num]) {
                 result[i++] = num;
                 exists[num] = false;
