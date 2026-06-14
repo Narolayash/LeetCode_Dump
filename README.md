@@ -34,11 +34,3 @@ One problem every day is better than solving hundreds once in a while.
 ## 🔗 Profiles
 
 - LeetCode: Yash_Narola -> https://leetcode.com/u/Yash_Narola/ 
-
----
-
-## ⭐ Support
-
-If you find this repository helpful, feel free to star it.
-
-Happy Coding! 🚀
