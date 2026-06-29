@@ -1,12 +1,13 @@
-import java.util.Arrays;
-import java.util.Stack;
 
 public class Problem_3974 {
+
     public long maxSum(int[] nums, int k, int mul) {
         int maxElement = Integer.MIN_VALUE;
 
         for (int num : nums) {
-            if (num > maxElement) maxElement = num;
+            if (num > maxElement) {
+                maxElement = num;
+            }
         }
 
         int[] counts = new int[maxElement + 1];
@@ -16,10 +17,13 @@ public class Problem_3974 {
         }
 
         long totalSum = 0;
-        for (int i=maxElement; i>=1; i--) {
+        for (int i = maxElement; i >= 1; i--) {
             while (counts[i] > 0 && k > 0) {
-                if (mul > 1) totalSum += (long) i * mul--;
-                else totalSum += i;
+                if (mul > 1) {
+                    totalSum += (long) i * mul--; 
+                }else {
+                    totalSum += i;
+                }
 
                 counts[i]--;
                 k--;
@@ -27,10 +31,7 @@ public class Problem_3974 {
         }
 
         return totalSum;
-        Stack
     }
-
-
 
 //    public long maxSum(int[] nums, int k, int mul) {
 //        Arrays.sort(nums);
@@ -47,4 +48,3 @@ public class Problem_3974 {
 //        return totalSum;
 //    }
 }
-
