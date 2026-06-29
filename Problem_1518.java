@@ -1,4 +1,6 @@
-public class Problme_1518 {
+
+public class Problem_1518 {
+
     public static void main(String[] args) {
         Solution_1518 obj = new Solution_1518();
 
@@ -17,11 +19,11 @@ public class Problme_1518 {
 //        return drink;
 //    }
 //}
-
 class Solution_1518 {
+
     public int numWaterBottles(int numBottles, int numExchange) {
         int drink = numBottles;
-        while(numBottles >= numExchange) {
+        while (numBottles >= numExchange) {
             int remainBottles = numBottles % numExchange;
             drink += numBottles / numExchange;
             numBottles = (numBottles / numExchange) + remainBottles;

@@ -1,6 +1,6 @@
-import java.util.Arrays;
 
-public class Problme_27 {
+public class Problem_27 {
+
     public static void main(String[] args) {
         int[] nums1 = {3, 2, 2, 3};
         int[] nums = {0, 1, 2, 2, 3, 0, 4, 2};
@@ -15,20 +15,25 @@ public class Problme_27 {
 }
 
 class Solution_27 {
-    public int removeElement(int[] nums, int val) {
-        int i=0, j=nums.length;
 
-        while(i<j) {
-            if(nums[i] == val) {
+    public int removeElement(int[] nums, int val) {
+        int i = 0, j = nums.length;
+
+        while (i < j) {
+            if (nums[i] == val) {
                 j--;
-                while (nums[j] == val && i != j) j--;
-                if (i!=j) {
+                while (nums[j] == val && i != j) {
+                    j--;
+                }
+                if (i != j) {
                     nums[i] = nums[i] + nums[j];
                     nums[j] = nums[i] - nums[j];
                     nums[i] = nums[i] - nums[j];
                 }
             }
-            if(i == j) break;
+            if (i == j) {
+                break;
+            }
             i++;
         }
         return i;

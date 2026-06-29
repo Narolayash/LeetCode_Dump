@@ -1,7 +1,9 @@
+
 import java.util.ArrayList;
 import java.util.List;
 
-public class Problme_144 {
+public class Problem_144 {
+
     public static void main(String[] args) {
 
     }
@@ -14,8 +16,9 @@ public class Problme_144 {
     }
 
     public static void preOrder(TreeNode root, List<Integer> res) {
-        if (root == null)
+        if (root == null) {
             return;
+        }
 
         res.add(root.val);
         preOrder(root.left, res);
