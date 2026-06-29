@@ -1,4 +1,5 @@
 import java.util.Arrays;
+import java.util.Stack;
 
 public class Problem_3974 {
     public long maxSum(int[] nums, int k, int mul) {
@@ -26,6 +27,7 @@ public class Problem_3974 {
         }
 
         return totalSum;
+        Stack
     }
 
 
