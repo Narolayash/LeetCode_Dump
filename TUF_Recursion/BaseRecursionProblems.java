@@ -12,11 +12,20 @@ public class BaseRecursionProblems {
 
     // time complexity: O(n)
     // space complexity: O(n)
-    public static void print_1_to_N(int i, int n) {
-        if (i > n) return;
+//    public static void print_1_to_N(int i, int n) {
+//        if (i > n) return;
+//
+//        System.out.println(i);
+//        print_1_to_N(i+1, n);
+//    }
 
-        System.out.println(i);
-        print_1_to_N(i+1, n);
+    // time complexity: O(n)
+    // space complexity: O(n)
+    public static void print_1_to_N(int n) {
+        if (n == 0) return;
+
+        print_1_to_N(n - 1);
+        System.out.println(n);
     }
 
     // time complexity: O(n)
@@ -49,5 +58,6 @@ public class BaseRecursionProblems {
 //        print_N_to_1(10);
 
 //        task - 4
+        print_1_to_N(10);
     }
 }
