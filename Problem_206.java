@@ -33,3 +33,21 @@ public class Problem_206 {
         return pre;
     }
 }
+
+
+
+
+// using recursion
+
+//public ListNode helper(ListNode pre, ListNode curr) {
+//    // base condition
+//    if (curr == null) return pre;
+//
+//    ListNode next = curr.next;
+//    curr.next = pre;
+//    return helper(curr, next);
+//}
+//
+//public ListNode reverseList(ListNode head) {
+//    return helper(null, head);
+//}
