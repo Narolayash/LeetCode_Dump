@@ -45,6 +45,7 @@ One problem every day is better than solving hundreds once in a while.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Narolayash/LeetCode_Dump/tree/master/0007-reverse-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Narolayash/LeetCode_Dump/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
 |  |
