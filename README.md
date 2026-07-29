@@ -42,6 +42,7 @@ One problem every day is better than solving hundreds once in a while.
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Narolayash/LeetCode_Dump/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Narolayash/LeetCode_Dump/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1773-count-items-matching-a-rule](https://github.com/Narolayash/LeetCode_Dump/tree/master/1773-count-items-matching-a-rule) |
 ## Math
 |  |
 | ------- |
@@ -56,4 +57,8 @@ One problem every day is better than solving hundreds once in a while.
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Narolayash/LeetCode_Dump/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## String
+|  |
+| ------- |
+| [1773-count-items-matching-a-rule](https://github.com/Narolayash/LeetCode_Dump/tree/master/1773-count-items-matching-a-rule) |
 <!---LeetCode Topics End-->
