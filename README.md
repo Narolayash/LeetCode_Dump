@@ -42,6 +42,7 @@ One problem every day is better than solving hundreds once in a while.
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Narolayash/LeetCode_Dump/tree/master/0628-maximum-product-of-three-numbers) |
 | [0832-flipping-an-image](https://github.com/Narolayash/LeetCode_Dump/tree/master/0832-flipping-an-image) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Narolayash/LeetCode_Dump/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Narolayash/LeetCode_Dump/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1773-count-items-matching-a-rule](https://github.com/Narolayash/LeetCode_Dump/tree/master/1773-count-items-matching-a-rule) |
 ## Math
@@ -49,6 +50,7 @@ One problem every day is better than solving hundreds once in a while.
 | ------- |
 | [0007-reverse-integer](https://github.com/Narolayash/LeetCode_Dump/tree/master/0007-reverse-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Narolayash/LeetCode_Dump/tree/master/0628-maximum-product-of-three-numbers) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Narolayash/LeetCode_Dump/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -78,4 +80,5 @@ One problem every day is better than solving hundreds once in a while.
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Narolayash/LeetCode_Dump/tree/master/0832-flipping-an-image) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Narolayash/LeetCode_Dump/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 <!---LeetCode Topics End-->
