@@ -44,6 +44,7 @@ One problem every day is better than solving hundreds once in a while.
 | [0832-flipping-an-image](https://github.com/Narolayash/LeetCode_Dump/tree/master/0832-flipping-an-image) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Narolayash/LeetCode_Dump/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Narolayash/LeetCode_Dump/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1572-matrix-diagonal-sum](https://github.com/Narolayash/LeetCode_Dump/tree/master/1572-matrix-diagonal-sum) |
 | [1773-count-items-matching-a-rule](https://github.com/Narolayash/LeetCode_Dump/tree/master/1773-count-items-matching-a-rule) |
 ## Math
 |  |
@@ -76,6 +77,7 @@ One problem every day is better than solving hundreds once in a while.
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Narolayash/LeetCode_Dump/tree/master/0832-flipping-an-image) |
+| [1572-matrix-diagonal-sum](https://github.com/Narolayash/LeetCode_Dump/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
