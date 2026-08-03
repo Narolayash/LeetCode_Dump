@@ -83,4 +83,16 @@ One problem every day is better than solving hundreds once in a while.
 | ------- |
 | [0832-flipping-an-image](https://github.com/Narolayash/LeetCode_Dump/tree/master/0832-flipping-an-image) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Narolayash/LeetCode_Dump/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Narolayash/LeetCode_Dump/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Narolayash/LeetCode_Dump/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Narolayash/LeetCode_Dump/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
