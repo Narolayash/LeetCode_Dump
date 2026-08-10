@@ -69,6 +69,7 @@ One problem every day is better than solving hundreds once in a while.
 |  |
 | ------- |
 | [1773-count-items-matching-a-rule](https://github.com/Narolayash/LeetCode_Dump/tree/master/1773-count-items-matching-a-rule) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Narolayash/LeetCode_Dump/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +106,7 @@ One problem every day is better than solving hundreds once in a while.
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Narolayash/LeetCode_Dump/tree/master/0160-intersection-of-two-linked-lists) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Narolayash/LeetCode_Dump/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3731-find-missing-elements](https://github.com/Narolayash/LeetCode_Dump/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -127,6 +129,7 @@ One problem every day is better than solving hundreds once in a while.
 |  |
 | ------- |
 | [1854-maximum-population-year](https://github.com/Narolayash/LeetCode_Dump/tree/master/1854-maximum-population-year) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Narolayash/LeetCode_Dump/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Prefix Sum
 |  |
 | ------- |
