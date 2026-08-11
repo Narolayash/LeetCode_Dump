@@ -47,6 +47,7 @@ One problem every day is better than solving hundreds once in a while.
 | [1572-matrix-diagonal-sum](https://github.com/Narolayash/LeetCode_Dump/tree/master/1572-matrix-diagonal-sum) |
 | [1773-count-items-matching-a-rule](https://github.com/Narolayash/LeetCode_Dump/tree/master/1773-count-items-matching-a-rule) |
 | [1854-maximum-population-year](https://github.com/Narolayash/LeetCode_Dump/tree/master/1854-maximum-population-year) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Narolayash/LeetCode_Dump/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Narolayash/LeetCode_Dump/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -60,6 +61,7 @@ One problem every day is better than solving hundreds once in a while.
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Narolayash/LeetCode_Dump/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Narolayash/LeetCode_Dump/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Narolayash/LeetCode_Dump/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Narolayash/LeetCode_Dump/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -107,6 +109,7 @@ One problem every day is better than solving hundreds once in a while.
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Narolayash/LeetCode_Dump/tree/master/0160-intersection-of-two-linked-lists) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Narolayash/LeetCode_Dump/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Narolayash/LeetCode_Dump/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Narolayash/LeetCode_Dump/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
