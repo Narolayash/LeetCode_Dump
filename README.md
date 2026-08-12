@@ -70,6 +70,7 @@ One problem every day is better than solving hundreds once in a while.
 ## String
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/Narolayash/LeetCode_Dump/tree/master/0443-string-compression) |
 | [1773-count-items-matching-a-rule](https://github.com/Narolayash/LeetCode_Dump/tree/master/1773-count-items-matching-a-rule) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Narolayash/LeetCode_Dump/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Two Pointers
@@ -77,6 +78,7 @@ One problem every day is better than solving hundreds once in a while.
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Narolayash/LeetCode_Dump/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Narolayash/LeetCode_Dump/tree/master/0234-palindrome-linked-list) |
+| [0443-string-compression](https://github.com/Narolayash/LeetCode_Dump/tree/master/0443-string-compression) |
 | [0832-flipping-an-image](https://github.com/Narolayash/LeetCode_Dump/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
