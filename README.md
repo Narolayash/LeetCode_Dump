@@ -40,6 +40,7 @@ One problem every day is better than solving hundreds once in a while.
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Narolayash/LeetCode_Dump/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Narolayash/LeetCode_Dump/tree/master/0628-maximum-product-of-three-numbers) |
 | [0832-flipping-an-image](https://github.com/Narolayash/LeetCode_Dump/tree/master/0832-flipping-an-image) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Narolayash/LeetCode_Dump/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -59,6 +60,7 @@ One problem every day is better than solving hundreds once in a while.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Narolayash/LeetCode_Dump/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Narolayash/LeetCode_Dump/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Narolayash/LeetCode_Dump/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Narolayash/LeetCode_Dump/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -76,6 +78,7 @@ One problem every day is better than solving hundreds once in a while.
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Narolayash/LeetCode_Dump/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Narolayash/LeetCode_Dump/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Narolayash/LeetCode_Dump/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/Narolayash/LeetCode_Dump/tree/master/0443-string-compression) |
@@ -139,4 +142,12 @@ One problem every day is better than solving hundreds once in a while.
 |  |
 | ------- |
 | [1854-maximum-population-year](https://github.com/Narolayash/LeetCode_Dump/tree/master/1854-maximum-population-year) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Narolayash/LeetCode_Dump/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Narolayash/LeetCode_Dump/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
