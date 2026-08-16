@@ -1,19 +1,18 @@
 class Solution {
     public int minPenalty(int period, int[] lights, int[] arrivalTime) {
         int penalty = 0;
+        int maxLight = 0;
 
-        for (int time: arrivalTime) {
-            int r = time % period;
+        for (int light : lights) {
+            maxLight = Math.max(maxLight, light);
+        }
 
-            boolean pass = false;
-            for (int light: lights) {
-                if (r < light) {
-                    pass = true;
-                    break;
-                }  
+        for (int time : arrivalTime) {
+            if (time >= maxLight) {
+                time %= period;
+                if (time >= maxLight)
+                    penalty = Math.max(penalty, period-time);
             }
-
-            if (!pass) penalty = Math.max(penalty, period - r);
         }
 
         return penalty;
