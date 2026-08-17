@@ -56,6 +56,7 @@ One problem every day is better than solving hundreds once in a while.
 | [0007-reverse-integer](https://github.com/Narolayash/LeetCode_Dump/tree/master/0007-reverse-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Narolayash/LeetCode_Dump/tree/master/0628-maximum-product-of-three-numbers) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Narolayash/LeetCode_Dump/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1323-maximum-69-number](https://github.com/Narolayash/LeetCode_Dump/tree/master/1323-maximum-69-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Narolayash/LeetCode_Dump/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sorting
 |  |
@@ -156,4 +157,8 @@ One problem every day is better than solving hundreds once in a while.
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Narolayash/LeetCode_Dump/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Greedy
+|  |
+| ------- |
+| [1323-maximum-69-number](https://github.com/Narolayash/LeetCode_Dump/tree/master/1323-maximum-69-number) |
 <!---LeetCode Topics End-->
