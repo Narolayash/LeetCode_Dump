@@ -163,4 +163,8 @@ One problem every day is better than solving hundreds once in a while.
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/Narolayash/LeetCode_Dump/tree/master/1323-maximum-69-number) |
+## Database
+|  |
+| ------- |
+| [0511-game-play-analysis-i](https://github.com/Narolayash/LeetCode_Dump/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
