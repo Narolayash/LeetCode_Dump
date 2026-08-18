@@ -49,6 +49,7 @@ One problem every day is better than solving hundreds once in a while.
 | [1773-count-items-matching-a-rule](https://github.com/Narolayash/LeetCode_Dump/tree/master/1773-count-items-matching-a-rule) |
 | [1854-maximum-population-year](https://github.com/Narolayash/LeetCode_Dump/tree/master/1854-maximum-population-year) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Narolayash/LeetCode_Dump/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Narolayash/LeetCode_Dump/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Narolayash/LeetCode_Dump/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -118,6 +119,7 @@ One problem every day is better than solving hundreds once in a while.
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Narolayash/LeetCode_Dump/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Narolayash/LeetCode_Dump/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Narolayash/LeetCode_Dump/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Narolayash/LeetCode_Dump/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Narolayash/LeetCode_Dump/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
