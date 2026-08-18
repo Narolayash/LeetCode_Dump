@@ -166,5 +166,6 @@ One problem every day is better than solving hundreds once in a while.
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Narolayash/LeetCode_Dump/tree/master/0175-combine-two-tables) |
 | [0511-game-play-analysis-i](https://github.com/Narolayash/LeetCode_Dump/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
