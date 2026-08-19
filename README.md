@@ -76,6 +76,7 @@ One problem every day is better than solving hundreds once in a while.
 | ------- |
 | [0443-string-compression](https://github.com/Narolayash/LeetCode_Dump/tree/master/0443-string-compression) |
 | [1773-count-items-matching-a-rule](https://github.com/Narolayash/LeetCode_Dump/tree/master/1773-count-items-matching-a-rule) |
+| [2278-percentage-of-letter-in-string](https://github.com/Narolayash/LeetCode_Dump/tree/master/2278-percentage-of-letter-in-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Narolayash/LeetCode_Dump/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Narolayash/LeetCode_Dump/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
