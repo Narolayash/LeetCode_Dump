@@ -49,6 +49,7 @@ One problem every day is better than solving hundreds once in a while.
 | [1773-count-items-matching-a-rule](https://github.com/Narolayash/LeetCode_Dump/tree/master/1773-count-items-matching-a-rule) |
 | [1854-maximum-population-year](https://github.com/Narolayash/LeetCode_Dump/tree/master/1854-maximum-population-year) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Narolayash/LeetCode_Dump/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Narolayash/LeetCode_Dump/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Narolayash/LeetCode_Dump/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Narolayash/LeetCode_Dump/tree/master/3731-find-missing-elements) |
 ## Math
@@ -101,6 +102,7 @@ One problem every day is better than solving hundreds once in a while.
 | ------- |
 | [0832-flipping-an-image](https://github.com/Narolayash/LeetCode_Dump/tree/master/0832-flipping-an-image) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Narolayash/LeetCode_Dump/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Narolayash/LeetCode_Dump/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Tree
 |  |
 | ------- |
