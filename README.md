@@ -48,6 +48,7 @@ One problem every day is better than solving hundreds once in a while.
 | [1572-matrix-diagonal-sum](https://github.com/Narolayash/LeetCode_Dump/tree/master/1572-matrix-diagonal-sum) |
 | [1773-count-items-matching-a-rule](https://github.com/Narolayash/LeetCode_Dump/tree/master/1773-count-items-matching-a-rule) |
 | [1854-maximum-population-year](https://github.com/Narolayash/LeetCode_Dump/tree/master/1854-maximum-population-year) |
+| [2540-minimum-common-value](https://github.com/Narolayash/LeetCode_Dump/tree/master/2540-minimum-common-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Narolayash/LeetCode_Dump/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Narolayash/LeetCode_Dump/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Narolayash/LeetCode_Dump/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -88,6 +89,7 @@ One problem every day is better than solving hundreds once in a while.
 | [0234-palindrome-linked-list](https://github.com/Narolayash/LeetCode_Dump/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/Narolayash/LeetCode_Dump/tree/master/0443-string-compression) |
 | [0832-flipping-an-image](https://github.com/Narolayash/LeetCode_Dump/tree/master/0832-flipping-an-image) |
+| [2540-minimum-common-value](https://github.com/Narolayash/LeetCode_Dump/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -111,6 +113,7 @@ One problem every day is better than solving hundreds once in a while.
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Narolayash/LeetCode_Dump/tree/master/0700-search-in-a-binary-search-tree) |
+| [2540-minimum-common-value](https://github.com/Narolayash/LeetCode_Dump/tree/master/2540-minimum-common-value) |
 ## Binary Tree
 |  |
 | ------- |
@@ -120,6 +123,7 @@ One problem every day is better than solving hundreds once in a while.
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Narolayash/LeetCode_Dump/tree/master/0160-intersection-of-two-linked-lists) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Narolayash/LeetCode_Dump/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2540-minimum-common-value](https://github.com/Narolayash/LeetCode_Dump/tree/master/2540-minimum-common-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Narolayash/LeetCode_Dump/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Narolayash/LeetCode_Dump/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Narolayash/LeetCode_Dump/tree/master/3471-find-the-largest-almost-missing-integer) |
