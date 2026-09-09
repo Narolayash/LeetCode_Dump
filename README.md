@@ -138,6 +138,7 @@ One problem every day is better than solving hundreds once in a while.
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Narolayash/LeetCode_Dump/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/Narolayash/LeetCode_Dump/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Narolayash/LeetCode_Dump/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -146,6 +147,7 @@ One problem every day is better than solving hundreds once in a while.
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Narolayash/LeetCode_Dump/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Narolayash/LeetCode_Dump/tree/master/0234-palindrome-linked-list) |
 ## Enumeration
 |  |
