@@ -43,6 +43,7 @@ One problem every day is better than solving hundreds once in a while.
 | [0075-sort-colors](https://github.com/Narolayash/LeetCode_Dump/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Narolayash/LeetCode_Dump/tree/master/0628-maximum-product-of-three-numbers) |
 | [0832-flipping-an-image](https://github.com/Narolayash/LeetCode_Dump/tree/master/0832-flipping-an-image) |
+| [1051-height-checker](https://github.com/Narolayash/LeetCode_Dump/tree/master/1051-height-checker) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Narolayash/LeetCode_Dump/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Narolayash/LeetCode_Dump/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1550-three-consecutive-odds](https://github.com/Narolayash/LeetCode_Dump/tree/master/1550-three-consecutive-odds) |
@@ -70,6 +71,7 @@ One problem every day is better than solving hundreds once in a while.
 | ------- |
 | [0075-sort-colors](https://github.com/Narolayash/LeetCode_Dump/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Narolayash/LeetCode_Dump/tree/master/0628-maximum-product-of-three-numbers) |
+| [1051-height-checker](https://github.com/Narolayash/LeetCode_Dump/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Narolayash/LeetCode_Dump/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Narolayash/LeetCode_Dump/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Narolayash/LeetCode_Dump/tree/master/3731-find-missing-elements) |
@@ -170,6 +172,7 @@ One problem every day is better than solving hundreds once in a while.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Narolayash/LeetCode_Dump/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/Narolayash/LeetCode_Dump/tree/master/1051-height-checker) |
 ## Sliding Window
 |  |
 | ------- |
@@ -192,4 +195,8 @@ One problem every day is better than solving hundreds once in a while.
 | [0595-big-countries](https://github.com/Narolayash/LeetCode_Dump/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Narolayash/LeetCode_Dump/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/Narolayash/LeetCode_Dump/tree/master/0607-sales-person) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Narolayash/LeetCode_Dump/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
