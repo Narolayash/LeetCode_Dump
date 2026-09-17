@@ -116,6 +116,7 @@ One problem every day is better than solving hundreds once in a while.
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Narolayash/LeetCode_Dump/tree/master/0101-symmetric-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Narolayash/LeetCode_Dump/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -125,6 +126,7 @@ One problem every day is better than solving hundreds once in a while.
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Narolayash/LeetCode_Dump/tree/master/0101-symmetric-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Narolayash/LeetCode_Dump/tree/master/0700-search-in-a-binary-search-tree) |
 ## Hash Table
 |  |
@@ -204,4 +206,12 @@ One problem every day is better than solving hundreds once in a while.
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Narolayash/LeetCode_Dump/tree/master/0836-rectangle-overlap) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Narolayash/LeetCode_Dump/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Narolayash/LeetCode_Dump/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
