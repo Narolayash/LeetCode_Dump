@@ -40,6 +40,7 @@ One problem every day is better than solving hundreds once in a while.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Narolayash/LeetCode_Dump/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Narolayash/LeetCode_Dump/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Narolayash/LeetCode_Dump/tree/master/0628-maximum-product-of-three-numbers) |
 | [0832-flipping-an-image](https://github.com/Narolayash/LeetCode_Dump/tree/master/0832-flipping-an-image) |
@@ -131,6 +132,7 @@ One problem every day is better than solving hundreds once in a while.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Narolayash/LeetCode_Dump/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Narolayash/LeetCode_Dump/tree/master/0160-intersection-of-two-linked-lists) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Narolayash/LeetCode_Dump/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2540-minimum-common-value](https://github.com/Narolayash/LeetCode_Dump/tree/master/2540-minimum-common-value) |
