@@ -90,6 +90,7 @@ One problem every day is better than solving hundreds once in a while.
 | [2278-percentage-of-letter-in-string](https://github.com/Narolayash/LeetCode_Dump/tree/master/2278-percentage-of-letter-in-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Narolayash/LeetCode_Dump/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Narolayash/LeetCode_Dump/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/Narolayash/LeetCode_Dump/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -114,6 +115,7 @@ One problem every day is better than solving hundreds once in a while.
 | [0832-flipping-an-image](https://github.com/Narolayash/LeetCode_Dump/tree/master/0832-flipping-an-image) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Narolayash/LeetCode_Dump/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Narolayash/LeetCode_Dump/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Narolayash/LeetCode_Dump/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
 |  |
 | ------- |
