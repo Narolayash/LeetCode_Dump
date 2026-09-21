@@ -42,6 +42,7 @@ One problem every day is better than solving hundreds once in a while.
 | ------- |
 | [0001-two-sum](https://github.com/Narolayash/LeetCode_Dump/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Narolayash/LeetCode_Dump/tree/master/0075-sort-colors) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Narolayash/LeetCode_Dump/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Narolayash/LeetCode_Dump/tree/master/0628-maximum-product-of-three-numbers) |
 | [0832-flipping-an-image](https://github.com/Narolayash/LeetCode_Dump/tree/master/0832-flipping-an-image) |
 | [1051-height-checker](https://github.com/Narolayash/LeetCode_Dump/tree/master/1051-height-checker) |
@@ -120,16 +121,19 @@ One problem every day is better than solving hundreds once in a while.
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Narolayash/LeetCode_Dump/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Narolayash/LeetCode_Dump/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Narolayash/LeetCode_Dump/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Narolayash/LeetCode_Dump/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Narolayash/LeetCode_Dump/tree/master/0700-search-in-a-binary-search-tree) |
 | [2540-minimum-common-value](https://github.com/Narolayash/LeetCode_Dump/tree/master/2540-minimum-common-value) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Narolayash/LeetCode_Dump/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Narolayash/LeetCode_Dump/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Narolayash/LeetCode_Dump/tree/master/0700-search-in-a-binary-search-tree) |
 ## Hash Table
 |  |
@@ -218,4 +222,8 @@ One problem every day is better than solving hundreds once in a while.
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Narolayash/LeetCode_Dump/tree/master/0101-symmetric-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Narolayash/LeetCode_Dump/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
