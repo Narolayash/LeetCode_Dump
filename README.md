@@ -43,6 +43,7 @@ One problem every day is better than solving hundreds once in a while.
 | [0001-two-sum](https://github.com/Narolayash/LeetCode_Dump/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Narolayash/LeetCode_Dump/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Narolayash/LeetCode_Dump/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Narolayash/LeetCode_Dump/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Narolayash/LeetCode_Dump/tree/master/0628-maximum-product-of-three-numbers) |
 | [0832-flipping-an-image](https://github.com/Narolayash/LeetCode_Dump/tree/master/0832-flipping-an-image) |
 | [1051-height-checker](https://github.com/Narolayash/LeetCode_Dump/tree/master/1051-height-checker) |
@@ -73,6 +74,7 @@ One problem every day is better than solving hundreds once in a while.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Narolayash/LeetCode_Dump/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Narolayash/LeetCode_Dump/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Narolayash/LeetCode_Dump/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/Narolayash/LeetCode_Dump/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Narolayash/LeetCode_Dump/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -140,6 +142,7 @@ One problem every day is better than solving hundreds once in a while.
 | ------- |
 | [0001-two-sum](https://github.com/Narolayash/LeetCode_Dump/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Narolayash/LeetCode_Dump/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Narolayash/LeetCode_Dump/tree/master/0169-majority-element) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Narolayash/LeetCode_Dump/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2540-minimum-common-value](https://github.com/Narolayash/LeetCode_Dump/tree/master/2540-minimum-common-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Narolayash/LeetCode_Dump/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -169,6 +172,7 @@ One problem every day is better than solving hundreds once in a while.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Narolayash/LeetCode_Dump/tree/master/0169-majority-element) |
 | [1854-maximum-population-year](https://github.com/Narolayash/LeetCode_Dump/tree/master/1854-maximum-population-year) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Narolayash/LeetCode_Dump/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Prefix Sum
@@ -226,4 +230,9 @@ One problem every day is better than solving hundreds once in a while.
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Narolayash/LeetCode_Dump/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Narolayash/LeetCode_Dump/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Narolayash/LeetCode_Dump/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
