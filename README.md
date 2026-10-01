@@ -91,6 +91,7 @@ One problem every day is better than solving hundreds once in a while.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Narolayash/LeetCode_Dump/tree/master/0020-valid-parentheses) |
 | [0443-string-compression](https://github.com/Narolayash/LeetCode_Dump/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Narolayash/LeetCode_Dump/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/Narolayash/LeetCode_Dump/tree/master/0657-robot-return-to-origin) |
@@ -167,6 +168,7 @@ One problem every day is better than solving hundreds once in a while.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Narolayash/LeetCode_Dump/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Narolayash/LeetCode_Dump/tree/master/0234-palindrome-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Narolayash/LeetCode_Dump/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
@@ -247,5 +249,6 @@ One problem every day is better than solving hundreds once in a while.
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Narolayash/LeetCode_Dump/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Narolayash/LeetCode_Dump/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
