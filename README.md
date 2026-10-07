@@ -132,6 +132,7 @@ One problem every day is better than solving hundreds once in a while.
 | ------- |
 | [0101-symmetric-tree](https://github.com/Narolayash/LeetCode_Dump/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Narolayash/LeetCode_Dump/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Narolayash/LeetCode_Dump/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Narolayash/LeetCode_Dump/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -144,6 +145,7 @@ One problem every day is better than solving hundreds once in a while.
 | ------- |
 | [0101-symmetric-tree](https://github.com/Narolayash/LeetCode_Dump/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Narolayash/LeetCode_Dump/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Narolayash/LeetCode_Dump/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Narolayash/LeetCode_Dump/tree/master/0700-search-in-a-binary-search-tree) |
 ## Hash Table
 |  |
@@ -233,10 +235,12 @@ One problem every day is better than solving hundreds once in a while.
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Narolayash/LeetCode_Dump/tree/master/0101-symmetric-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Narolayash/LeetCode_Dump/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Narolayash/LeetCode_Dump/tree/master/0101-symmetric-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Narolayash/LeetCode_Dump/tree/master/0404-sum-of-left-leaves) |
 ## Divide and Conquer
 |  |
 | ------- |
