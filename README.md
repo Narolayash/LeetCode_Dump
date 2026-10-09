@@ -92,6 +92,7 @@ One problem every day is better than solving hundreds once in a while.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Narolayash/LeetCode_Dump/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/Narolayash/LeetCode_Dump/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Narolayash/LeetCode_Dump/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Narolayash/LeetCode_Dump/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/Narolayash/LeetCode_Dump/tree/master/0657-robot-return-to-origin) |
@@ -153,6 +154,7 @@ One problem every day is better than solving hundreds once in a while.
 | [0001-two-sum](https://github.com/Narolayash/LeetCode_Dump/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Narolayash/LeetCode_Dump/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Narolayash/LeetCode_Dump/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Narolayash/LeetCode_Dump/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Narolayash/LeetCode_Dump/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Narolayash/LeetCode_Dump/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2540-minimum-common-value](https://github.com/Narolayash/LeetCode_Dump/tree/master/2540-minimum-common-value) |
@@ -186,6 +188,7 @@ One problem every day is better than solving hundreds once in a while.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Narolayash/LeetCode_Dump/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Narolayash/LeetCode_Dump/tree/master/0387-first-unique-character-in-a-string) |
 | [1854-maximum-population-year](https://github.com/Narolayash/LeetCode_Dump/tree/master/1854-maximum-population-year) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Narolayash/LeetCode_Dump/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Prefix Sum
@@ -255,4 +258,8 @@ One problem every day is better than solving hundreds once in a while.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Narolayash/LeetCode_Dump/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Narolayash/LeetCode_Dump/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Narolayash/LeetCode_Dump/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
