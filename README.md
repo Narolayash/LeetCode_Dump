@@ -56,6 +56,7 @@ One problem every day is better than solving hundreds once in a while.
 | [1848-minimum-distance-to-the-target-element](https://github.com/Narolayash/LeetCode_Dump/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1854-maximum-population-year](https://github.com/Narolayash/LeetCode_Dump/tree/master/1854-maximum-population-year) |
 | [2540-minimum-common-value](https://github.com/Narolayash/LeetCode_Dump/tree/master/2540-minimum-common-value) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Narolayash/LeetCode_Dump/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Narolayash/LeetCode_Dump/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Narolayash/LeetCode_Dump/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Narolayash/LeetCode_Dump/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -183,6 +184,7 @@ One problem every day is better than solving hundreds once in a while.
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Narolayash/LeetCode_Dump/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Narolayash/LeetCode_Dump/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Counting
 |  |
