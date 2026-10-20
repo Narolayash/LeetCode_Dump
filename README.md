@@ -236,6 +236,7 @@ One problem every day is better than solving hundreds once in a while.
 | [0595-big-countries](https://github.com/Narolayash/LeetCode_Dump/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Narolayash/LeetCode_Dump/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/Narolayash/LeetCode_Dump/tree/master/0607-sales-person) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Narolayash/LeetCode_Dump/tree/master/1327-list-the-products-ordered-in-a-period) |
 ## Counting Sort
 |  |
 | ------- |
