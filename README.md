@@ -238,6 +238,7 @@ One problem every day is better than solving hundreds once in a while.
 | [0607-sales-person](https://github.com/Narolayash/LeetCode_Dump/tree/master/0607-sales-person) |
 | [1148-article-views-i](https://github.com/Narolayash/LeetCode_Dump/tree/master/1148-article-views-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Narolayash/LeetCode_Dump/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1527-patients-with-a-condition](https://github.com/Narolayash/LeetCode_Dump/tree/master/1527-patients-with-a-condition) |
 ## Counting Sort
 |  |
 | ------- |
