@@ -49,6 +49,7 @@ One problem every day is better than solving hundreds once in a while.
 | [0832-flipping-an-image](https://github.com/Narolayash/LeetCode_Dump/tree/master/0832-flipping-an-image) |
 | [1051-height-checker](https://github.com/Narolayash/LeetCode_Dump/tree/master/1051-height-checker) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Narolayash/LeetCode_Dump/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Narolayash/LeetCode_Dump/tree/master/1352-product-of-the-last-k-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Narolayash/LeetCode_Dump/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1550-three-consecutive-odds](https://github.com/Narolayash/LeetCode_Dump/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/Narolayash/LeetCode_Dump/tree/master/1572-matrix-diagonal-sum) |
@@ -74,6 +75,7 @@ One problem every day is better than solving hundreds once in a while.
 | [0836-rectangle-overlap](https://github.com/Narolayash/LeetCode_Dump/tree/master/0836-rectangle-overlap) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Narolayash/LeetCode_Dump/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1323-maximum-69-number](https://github.com/Narolayash/LeetCode_Dump/tree/master/1323-maximum-69-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Narolayash/LeetCode_Dump/tree/master/1352-product-of-the-last-k-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Narolayash/LeetCode_Dump/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Narolayash/LeetCode_Dump/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Narolayash/LeetCode_Dump/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -204,6 +206,7 @@ One problem every day is better than solving hundreds once in a while.
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Narolayash/LeetCode_Dump/tree/master/1352-product-of-the-last-k-numbers) |
 | [1854-maximum-population-year](https://github.com/Narolayash/LeetCode_Dump/tree/master/1854-maximum-population-year) |
 ## Quicksort
 |  |
@@ -275,4 +278,12 @@ One problem every day is better than solving hundreds once in a while.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Narolayash/LeetCode_Dump/tree/master/0387-first-unique-character-in-a-string) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Narolayash/LeetCode_Dump/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Narolayash/LeetCode_Dump/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
