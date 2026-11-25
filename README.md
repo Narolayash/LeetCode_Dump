@@ -122,6 +122,7 @@ One problem every day is better than solving hundreds once in a while.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Narolayash/LeetCode_Dump/tree/master/0191-number-of-1-bits) |
 | [0832-flipping-an-image](https://github.com/Narolayash/LeetCode_Dump/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
@@ -265,6 +266,7 @@ One problem every day is better than solving hundreds once in a while.
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Narolayash/LeetCode_Dump/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Narolayash/LeetCode_Dump/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Narolayash/LeetCode_Dump/tree/master/0191-number-of-1-bits) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
