@@ -77,6 +77,7 @@ One problem every day is better than solving hundreds once in a while.
 | [1323-maximum-69-number](https://github.com/Narolayash/LeetCode_Dump/tree/master/1323-maximum-69-number) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Narolayash/LeetCode_Dump/tree/master/1352-product-of-the-last-k-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Narolayash/LeetCode_Dump/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Narolayash/LeetCode_Dump/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Narolayash/LeetCode_Dump/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Narolayash/LeetCode_Dump/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Narolayash/LeetCode_Dump/tree/master/3870-count-commas-in-range) |
@@ -136,6 +137,7 @@ One problem every day is better than solving hundreds once in a while.
 | [0832-flipping-an-image](https://github.com/Narolayash/LeetCode_Dump/tree/master/0832-flipping-an-image) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Narolayash/LeetCode_Dump/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Narolayash/LeetCode_Dump/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/Narolayash/LeetCode_Dump/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Narolayash/LeetCode_Dump/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
 |  |
