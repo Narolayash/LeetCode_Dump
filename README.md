@@ -245,6 +245,7 @@ One problem every day is better than solving hundreds once in a while.
 | [1148-article-views-i](https://github.com/Narolayash/LeetCode_Dump/tree/master/1148-article-views-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Narolayash/LeetCode_Dump/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1527-patients-with-a-condition](https://github.com/Narolayash/LeetCode_Dump/tree/master/1527-patients-with-a-condition) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Narolayash/LeetCode_Dump/tree/master/1757-recyclable-and-low-fat-products) |
 ## Counting Sort
 |  |
 | ------- |
